@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Proto</string>
+    <string name="hint_usernname">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="text_name">Cancel</string>
+    <string name="button_next">Next</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="button_Next">Next</string>
+    <string name="textFirstName">Firstname</string>
+    <string name="textLastName">Lastname</string>
+    <string name="BtnRegister">Register</string>
+    <string name="register_name">Registered?</string>
+    <string name="register_name_text">Login</string>
+
+<string-array name="location">
+
+    <item>Tembisa</item>
+    <item>Germiston</item>
+    <item>Kempton Park</item>
+    <item>Midrand</item>
+    <item>Kwathemba</item>
+</string-array>
+
+</resources>
